@@ -1,7 +1,7 @@
 # Delete all unused properties.
 
 # Give your module a name
-name: zmk-keyboard-emma-louise
+name: zmk-keyboard-emma_louise
 build:
   # # Kconfig filepath
   # kconfig: Kconfig
